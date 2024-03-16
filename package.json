@@ -1,5 +1,5 @@
 {
-  "name": "@arunothia-marappan/react-survey-components",
+  "name": "@Bhesajja/react-survey-components",
   "version": "0.0.0",
   "description": "A react components library for custom survey form elements.",
   "main": "dist/index.umd.js",
@@ -24,6 +24,6 @@
     "react": "^18.2.0"
   },
   "publishConfig": {
-    "@arunothia-marappan:registry": "https://npm.pkg.github.com"
+    "@Bhesajja:registry": "https://npm.pkg.github.com"
   }
 }
