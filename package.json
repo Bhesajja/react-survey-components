@@ -1,6 +1,6 @@
 {
   "name": "@Bhesajja/react-survey-components",
-  "version": "0.0.0",
+  "version": "0.0.4",
   "description": "A react components library for custom survey form elements.",
   "main": "dist/index.umd.js",
   "module": "dist/index.mjs",
